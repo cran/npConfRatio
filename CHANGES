@@ -1,0 +1,4 @@
+	
+	1.0-1 (20.12.2000)
+
+    o	now depends on exactRankTests, not exactDistr

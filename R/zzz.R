@@ -1,1 +1,1 @@
-require(exactDistr)
+require(exactRankTests)
